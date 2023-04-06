@@ -29,4 +29,4 @@
 ![RacoonHyun's github stats](https://github-readme-stats.vercel.app/api?username=RacoonHyun&show_icons=true&theme=dark) [![RacoonHyun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RacoonHyun&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=jolly)](https://github.com/RacoonHyun) 
 <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRacoonHyun&count_bg=%23FFDBEF&title_bg=%23F91698&icon=chupachups.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRacoonHyun&count_bg=%23E9CCBC&title_bg=%23E78989&icon=codeigniter.svg&icon_color=%23E7E7E7&title=Hi&edge_flat=false)](https://hits.seeyoufarm.com)
